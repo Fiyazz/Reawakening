@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.container {
+    background-color: lightgray;
+    font-size: 16px;
+}
+
+footer {
+    font-style: italic;
+    color: green;
+}
+
+.highlight {
+    font-weight: bold;
+    color: blue;
+}
+
+#header {
+    background-color: lightyellow;
+    font-size: 34px;
+}

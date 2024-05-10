@@ -1,0 +1,17 @@
+nav {
+    float: left;
+}
+
+aside {
+    float: right;
+}
+
+article {
+    position: relative;
+    left: 50px;
+}
+
+footer {
+    background-color: lightgray;
+    padding: 10px;
+}
